@@ -1,4 +1,5 @@
-# Welcome to your Expo app 👋
+# VidSense
+- This is a project where users can login/signup, create profiles, upload videos, watch other user's content, save others content. It is built using React Native and Appwrite Database.
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
